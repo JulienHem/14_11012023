@@ -1,0 +1,25 @@
+.inputs {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    gap: 0.6em;
+    width: 60%;
+    margin: auto;
+}
+
+
+input {
+    height: 20px;
+}
+
+.input-wrap {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 0.6em;
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+    gap: 0.6em;
+}
